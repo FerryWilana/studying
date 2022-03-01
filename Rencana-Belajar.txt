@@ -1,9 +1,12 @@
 Rencana Belajar 
 - Ingin Belajar framework php
   ^laravel
+  ^ci
 - ingin belajar css
   ^flex-box, SASS ,Grid 
 - Belajar javascript lanjutan
+  ^react
+  ^vue
 - Belajar Jquery
 - Belajar Node Js.
 - Bikin Karya
