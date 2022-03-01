@@ -1,0 +1,8 @@
+Rencana Belajar 
+- Ingin Belajar framework php
+  ^laravel
+- ingin belajar css
+- Belajar javascript lanjutan
+- Belajar Jquery
+- Belajar Node Js.
+- Bikin Karya
