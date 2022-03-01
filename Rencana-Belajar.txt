@@ -1,6 +1,7 @@
 Rencana Belajar 
 - Ingin Belajar framework php
-- ingin belajar css sa-ss-grid-flexbox
+  ^laravel
+- ingin belajar css
 - Belajar javascript lanjutan
 - Belajar Jquery
 - Belajar Node Js.
